@@ -12,6 +12,12 @@
   <a  href="https://eoc8n.csb.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_WebDev_Portfolio-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
+  
+    
+  <a href="https://www.figma.com/@louyi?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/figma-353535?style=for-the-badge&logo=figma&logoColor=white" alt="example"/>
+  </a>
+  
   <a href="mailto:niloofargst@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
@@ -23,6 +29,8 @@
   <a href="https://www.behance.net/louyigst" target="_blank">
       <img src="https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=Behance&logoColor=white" alt="example"/>
     </a>
+   
+    
   </p>
 
 
