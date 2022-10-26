@@ -108,7 +108,7 @@
  <br/>
  <a href="https://teneo.ba/" > IT and Tech company Website + custom design</a>
  <br/>
- <a href="https://glosarijcd.ba/" > Re-designing of thge Website</a>
+ <a href="https://glosarijcd.ba/" > Re-designing of the Website</a>
   </p>
 </details>
 
