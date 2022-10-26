@@ -101,5 +101,5 @@
 
 ---- 
 <p align="center">
-<a href="#"><img src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" alt="Coder GIF" width="400" height="250"></a>
+<a href="#"><img src="https://media.giphy.com/media/RiMnSduDY5bd9O7FzR/giphy.gif" alt="Coder GIF" width="400" height="250"></a>
 <p/>
