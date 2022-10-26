@@ -94,10 +94,23 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloofargst&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
 </p>
 
-## 🏆GitHub Trophies
+## Real life Projects
 
- ![](https://github-profile-trophy.vercel.app/?username=niloofargst&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+<details> 
+  <summary><b>💻 Designed and Developed by Me </b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://estateslk.com/" > Real Estate Agent Website</a>
+<br/>
+ <a href="http://happyair.ba/" > Premium Car Perfume Website</a>
+ <br/>
+ <a href="http://martisforum.hr/ > Hotel and Restaurant Website in Croatia + online reservation + 2 languages </a>
+ <br/>
+ <a href="https://teneo.ba/" > IT and Tech company Website + custom design</a>
+ <br/>
+ <a href="https://glosarijcd.ba/" > Re-designing of thge Website</a>
+  </p>
+</details>
 
 
 ----
