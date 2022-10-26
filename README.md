@@ -87,7 +87,8 @@
 </p>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=niloofargst&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+ ![](https://github-profile-trophy.vercel.app/?username=niloofargst&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
