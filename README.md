@@ -31,7 +31,9 @@
     </a>
    
     
+    
   </p>
+  <br>
 
 
 <p> I'm a front-end developer who creates web applications with new technology. I appreciate both front-end development and UI/UX design. I love to create products that not only look good but also feel good. I finished the Paragon Full Stack Developer program last year in nine months, and I've been working as a web designer for a digital media company for more than eight months now. very good at picking up new skills and tools. I'm eager to expand my professional experience and use what I know to work on projects in the real world.
